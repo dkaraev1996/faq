@@ -1,0 +1,35 @@
+  body {
+    background-color: #555;
+    position: relative;
+  }
+
+  * {
+    border: 1px solid red;
+  }
+
+  h1 {
+    color: rgb(159, 13, 153);
+  }
+
+  h2 {
+    padding: 0 0 0 60px;
+    cursor: pointer;
+    height: 40px;
+    color: rgb(155, 233, 233);
+    background: url('http://place-puppy.com/40x40') no-repeat;
+  }
+
+  section {
+    margin: 10px;
+    padding: 10px;
+    background-color: #999;
+  }
+
+  .close {
+    background: url('http://placekitten.com/40/40') no-repeat;
+  }
+
+  .answer {
+    background-color: rgb(244, 83, 232);
+    text: #000;
+  }
